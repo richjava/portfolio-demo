@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "Web": [
+        {
+          "name": "Web Project 1",
+          "image_url": "https://unsplash.it/200/300/?random"
+        },
+        {
+          "name": "Web Project 2",
+          "image_url": "https://unsplash.it/200/300/?random"
+        },
+        {
+          "name": "Web Project 3",
+          "image_url": "https://unsplash.it/200/300/?random"
+        }
+      ]
+    }
+  ]
+
+}
