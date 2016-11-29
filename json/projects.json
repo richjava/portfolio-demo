@@ -16,17 +16,47 @@
         }
       ]
     },{
+      "mobile": [
+        {
+          "name": "Mobile Project 1",
+          "image_url": "https://unsplash.it/200/300/?random"
+        },
+        {
+          "name": "Mobile Project 2",
+          "image_url": "https://unsplash.it/200/300/?random"
+        },
+        {
+          "name": "Mobile Project 3",
+          "image_url": "https://unsplash.it/200/300/?random"
+        }
+      ]
+    },{
       "art": [
         {
-          "name": "Web Art 1",
+          "name": "Art 1",
           "image_url": "https://unsplash.it/200/300/?random"
         },
         {
-          "name": "Web Art 2",
+          "name": "Art 2",
           "image_url": "https://unsplash.it/200/300/?random"
         },
         {
-          "name": "Web Art 3",
+          "name": "Art 3",
+          "image_url": "https://unsplash.it/200/300/?random"
+        }
+      ]
+    },{
+      "writing": [
+        {
+          "name": "Writing 1",
+          "image_url": "https://unsplash.it/200/300/?random"
+        },
+        {
+          "name": "Writing 2",
+          "image_url": "https://unsplash.it/200/300/?random"
+        },
+        {
+          "name": "Writing 3",
           "image_url": "https://unsplash.it/200/300/?random"
         }
       ]
