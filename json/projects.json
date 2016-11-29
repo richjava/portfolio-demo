@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "Web": [
+      "web": [
         {
           "name": "Web Project 1",
           "image_url": "https://unsplash.it/200/300/?random"
@@ -12,6 +12,21 @@
         },
         {
           "name": "Web Project 3",
+          "image_url": "https://unsplash.it/200/300/?random"
+        }
+      ]
+    },{
+      "art": [
+        {
+          "name": "Web Art 1",
+          "image_url": "https://unsplash.it/200/300/?random"
+        },
+        {
+          "name": "Web Art 2",
+          "image_url": "https://unsplash.it/200/300/?random"
+        },
+        {
+          "name": "Web Art 3",
           "image_url": "https://unsplash.it/200/300/?random"
         }
       ]
